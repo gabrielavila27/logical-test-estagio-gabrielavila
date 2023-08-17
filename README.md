@@ -15,7 +15,7 @@
 </h4>
 <h4>
   Ao pressionar o botão deve haver uma renderização condicional em tela baseada no número divisor.</br>
-Considere o valor de divisor como D, devem haver D renderizações baseadas na divisão do número total.</br>
+Considere o valor de divisor como D, devem haver D renderizações.</br>
 
 </h4>
 <h3>Cada renderização deve funcionar como uma soma do divisor, partindo do valor inicial 0 até o valor total</h3>
