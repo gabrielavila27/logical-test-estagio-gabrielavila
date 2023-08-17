@@ -16,9 +16,9 @@
 <h5>
   Ao pressionar o botão deve haver uma renderização condicional em tela baseada no número divisor.</br>
 Considere o valor de divisor como D, devem haver D renderizações baseadas na divisão do número total.</br>
-Seguem exemplos abaixo:
+ **Cada renderização deve funcionar como uma soma do divisor, partindo do valor inicial 0 até o valor total**
 </h5>
-
+<h2>Seguem exemplos abaixo:</h2>
 [Exemplo Inteiro](https://jangry-storage.s3.us-east-2.amazonaws.com/e36050d7bdd32a0a8ec51ef09f5ceb7c-example-integer1.png)
 <br/>
 [Exemplo Float](https://jangry-storage.s3.us-east-2.amazonaws.com/29632b234eea71bb18721f12dafc4383-example-float1.png)
