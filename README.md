@@ -10,14 +10,15 @@
 
 <h4>° Considere que não serão utilizados números negativos</h4>
 <h4>° Considere que não serão utilizados valores vazios(Ex: undefined, null, 0)</h4>
-<h5>
+<h4>
   Na sua aplicação devem haver 2 inputs e um botão, um dos inputs será o valor total e o outro input será o divisor.
-</h5>
-<h5>
+</h4>
+<h4>
   Ao pressionar o botão deve haver uma renderização condicional em tela baseada no número divisor.</br>
 Considere o valor de divisor como D, devem haver D renderizações baseadas na divisão do número total.</br>
- **Cada renderização deve funcionar como uma soma do divisor, partindo do valor inicial 0 até o valor total**
-</h5>
+
+</h4>
+<h3>Cada renderização deve funcionar como uma soma do divisor, partindo do valor inicial 0 até o valor total</h3>
 <h2>Seguem exemplos abaixo:</h2>
 [Exemplo Inteiro](https://jangry-storage.s3.us-east-2.amazonaws.com/e36050d7bdd32a0a8ec51ef09f5ceb7c-example-integer1.png)
 <br/>
