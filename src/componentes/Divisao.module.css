@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.divContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: cornflowerblue;
+    gap: 2vh;
+    border: 1px solid black;
+    width: 37vh;
+    height: 50vh;
+    border-radius: 5%;
+    box-shadow: 2px 1px 3px rgba(39, 37, 37, 0.63);
+
+}
+
+.labelInput{
+    font: normal bold 4vh 'Bebas Neue', sans-serif;
+    margin: 0.5rem;
+}
+
+.input{
+    height: 4vh;
+    width: 80%;
+    border: 1px solid black;
+}
+
+.botao{
+    background-color: #EB6650;
+    width: 9vh;
+    height: 4vh;
+    font: normal 2vh 'Bebas Neue', sans-serif;
+    margin: 1rem;
+}
+
+.divResposta{
+
+}
+
+.pResposta{
+    font: normal 1.5rem 'Bebas Neue', sans-serif;
+}
